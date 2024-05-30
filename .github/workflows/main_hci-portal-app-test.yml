@@ -53,4 +53,4 @@ jobs:
           app-name: 'hci-portal-app-test'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F65A6CE171354AB8B1AA6F4F16E35D0D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65F9FD6EA8D047B58C31502EE8E69F07 }}
